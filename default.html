@@ -2,6 +2,19 @@
     <head>
         <title>>form validation</title>
         <script type="text/javascript">
+
+        function validate() {
+            var username = document.getElementById('uname');
+            var password = document.getElementById('pass');
+
+            if (username.value.trim() == "" || password.value.trum() == "") {
+                alert("No blank values allowed");
+                return false;
+            }
+            else {
+                true;
+            }
+        }
         
         
         </script>
@@ -9,7 +22,7 @@
 
     <body>
 
-        <form>
+        <form onclick="return validate()" action="message.html">
        <input id="uname" placeholder="username" type="text"/><br><br>
 
        <input id="pass" placeholder="Password" type="password"/>
