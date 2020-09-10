@@ -1,14 +1,19 @@
 <html>
     <head>
-        <title>>form validation</title>
+        <title>form validation</title>
         <script type="text/javascript">
 
         function validate() {
             var username = document.getElementById('uname');
             var password = document.getElementById('pass');
+            var email = document.getElementById('email');
 
-            if (username.value.trim() == "" || password.value.trum() == "") {
+            if (username.value.trim() == "" || password.value.trim() == "") {
                 alert("No blank values allowed");
+                return false;
+            }
+            else if (email.value.indexOf('@') < 1) {
+                alert("Email field must contain @");
                 return false;
             }
             else {
@@ -22,10 +27,12 @@
 
     <body>
 
-        <form onclick="return validate()" action="message.html">
+        <form onsubmit="return validate()" action="message.html">
        <input id="uname" placeholder="username" type="text"/><br><br>
 
-       <input id="pass" placeholder="Password" type="password"/>
+       <input id="pass" placeholder="Password" type="password"/><br><br>
+
+       <input id="email" placeholder="email" />
 
        <br><br>
        <button type="sumbit">Submit</button>
