@@ -1,0 +1,16 @@
+/* fonts */
+@font-face {
+    font-family: myFirstFont;
+    src: url(fonts/Apis-ExtraBold.ttf);
+ }
+ 
+ * {
+    font-family: myFirstFont;
+ }
+
+
+ .rybel {
+     width: 30%;
+ }
+
+ 
