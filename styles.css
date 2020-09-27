@@ -335,4 +335,7 @@ button#submit_button {
         font-size: 44px;
         padding: 5px 44px;
     }
+    #tab_contain {
+        width: 100%;
+    }
   }
