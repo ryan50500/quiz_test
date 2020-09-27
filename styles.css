@@ -300,7 +300,7 @@ button#submit_button {
 
   /* mobile only */
   @media (max-width: 767px) {
-    .flex_circle {
+    /* .flex_circle {
         align-items: flex-end;
     }
     p.first {
@@ -309,11 +309,11 @@ button#submit_button {
     .dot {
         height: 40px;
         width: 40px;
-    }
+    } */
     .margin {
-        margin: 5em 5em 1em 3em;
+        margin: 4em 2em 1em 2em;
     }
-    .arrow {
+    /* .arrow {
         border-width: 0 13px 12px 0;
         padding: 12px;
     }
@@ -334,8 +334,32 @@ button#submit_button {
     button#submit_button {
         font-size: 44px;
         padding: 5px 44px;
-    }
+    } */
     #tab_contain {
         width: 100%;
+    }
+    p.first {
+        font-size: 14px;
+    }
+    .rectangle {
+        padding: 1em 1em 1em 1em;
+    } 
+    p.question {
+        font-size: 16px;
+    }
+    #check_text {
+        margin: 1em 0 1em 0;
+    }
+    .apisBold {
+        font-size: 18px;
+    }
+    p.choose {
+        line-height: normal;
+    }
+    #check_text {
+        font-size: 16px;
+    }
+    .company_text {
+        display: none;
     }
   }
