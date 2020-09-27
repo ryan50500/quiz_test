@@ -1,44 +1,77 @@
 <html>
     <head>
-        <title>form validation</title>
-        <script type="text/javascript">
-
-        function validate() {
-            var username = document.getElementById('uname');
-            var password = document.getElementById('pass');
-            var email = document.getElementById('email');
-
-            if (username.value.trim() == "" || password.value.trim() == "") {
-                alert("No blank values allowed");
-                return false;
-            }
-            else if (email.value.indexOf('@') < 1) {
-                alert("Email field must contain @");
-                return false;
-            }
-            else {
-                true;
-            }
-        }
-        
-        
-        </script>
+        <link rel="stylesheet" href="styles.css">
+        <title>quiz test</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     </head>
 
     <body>
 
-        <form onsubmit="return validate()" action="message.html">
-       <input id="uname" placeholder="username" type="text"/><br><br>
+        <!-- tablet container -->
+        <div id="tab_contain">
 
-       <input id="pass" placeholder="Password" type="password"/><br><br>
+            <div class="margin">
 
-       <input id="email" placeholder="email" />
+            <div class="rectangle"><p class="question">In comparison with Victoza, when added to metoformin
+                +/- SGLT2i, what would you expect RYBELUS to deliver?</p><p class="choose">Choose <span>one</span>, then click Submit</p></div>
 
-       <br><br>
-       <button type="sumbit">Submit</button>
+            <div id="check_text">
+        <input type="checkbox"  id="c01"/><span class="check_padding">Similar reductions in both HbA1c and body weight</span><br>
+        <input type="checkbox" id="c02"/><span class="check_padding">Significantly greater reductions in both HbA1c and body weight</span><br>
+        <input type="checkbox" id="c03"/><span class="check_padding">Similar HbAic reduction and no significant change in body weight</span><br>
+    </div>
 
-    </form>
+    <div class="button_page">
+        <!-- company text -->
+        <div class="company_text">
+        <p>sadasdasdsad</p>
+        <p>sadasdasdsad</p>
+        <p>sadasdasdsad</p>
+    </div>
+    <!-- submit button -->
+    <button id="submit_button">Submit</button>
+</div>
+
+    </div>
+
+        <div class="tab_lower">
+            <img  class="novo" src="images/novo.jpg"/>
+            <img  class="rybel" src="images/Rybel.jpg"/>
+        </div>
+
+    </div>
+     <!-- tablet container -->
+
 
     </body>
+
+
+    <script>
+    $("#c01").click(function(){
+          $("#c02").prop("checked", false);
+          $("#c03").prop("checked", false);
+    }); 
+    $("#c02").click(function(){
+          $("#c01").prop("checked", false);
+          $("#c03").prop("checked", false);
+    });
+    $("#c03").click(function(){
+          $("#c01").prop("checked", false);
+          $("#c02").prop("checked", false);
+    });
+
+    // event handler for submit
+    document.getElementById('submit_button').addEventListener('click', function() {
+        document.getElementById('c02').checked = true;
+        $('#c02').addClass('green');
+        if ( document.getElementById('c01').checked || document.getElementById('c03').checked ) {
+            $('.choose').text('Surprise!').addClass('apisBold');
+        }
+       else {
+        $('.choose').text('Correct!').addClass('apisBold');
+       }
+    });
+    // .addClass('green')
+</script>
 
 </html>

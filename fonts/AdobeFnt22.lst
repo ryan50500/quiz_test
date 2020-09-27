@@ -1,0 +1,447 @@
+%!Adobe-FontList 1.22
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-Bold
+FamilyName:Apis
+StyleName:Bold
+FullName:Apis-Bold
+MenuName:Apis
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:314788
+FileModTime:1599729554
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apis Bold
+NameArray:0,Win,1,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-BoldItalic
+FamilyName:Apis
+StyleName:Bold Italic
+FullName:Apis-BoldItalic
+MenuName:Apis
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:325688
+FileModTime:1599729554
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Apis Bold Italic
+NameArray:0,Win,1,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-ExtraBold
+FamilyName:Apis
+StyleName:ExtraBold
+FullName:Apis-ExtraBold
+MenuName:Apis ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:315644
+FileModTime:1599729554
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apis ExtraBold
+NameArray:0,Win,1,Apis ExtraBold
+NameArray:0,Win,16,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-ExtraBoldItalic
+FamilyName:Apis
+StyleName:ExtraBold Italic
+FullName:Apis-ExtraBoldItalic
+MenuName:Apis ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:326304
+FileModTime:1599729554
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Apis ExtraBold Italic
+NameArray:0,Win,1,Apis ExtraBold
+NameArray:0,Win,16,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-Italic
+FamilyName:Apis
+StyleName:Italic
+FullName:Apis-Italic
+MenuName:Apis
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:327004
+FileModTime:1599729554
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Apis Italic
+NameArray:0,Win,1,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-Light
+FamilyName:Apis
+StyleName:Light
+FullName:Apis-Light
+MenuName:Apis Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:311976
+FileModTime:1599729554
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apis Light
+NameArray:0,Win,1,Apis Light
+NameArray:0,Win,16,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-LightItalic
+FamilyName:Apis
+StyleName:Light Italic
+FullName:Apis-LightItalic
+MenuName:Apis Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:328240
+FileModTime:1599729554
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Apis Light Italic
+NameArray:0,Win,1,Apis Light
+NameArray:0,Win,16,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-Medium
+FamilyName:Apis
+StyleName:Medium
+FullName:Apis-Medium
+MenuName:Apis Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:314284
+FileModTime:1599729554
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apis Medium
+NameArray:0,Win,1,Apis Light
+NameArray:0,Win,16,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-MediumItalic
+FamilyName:Apis
+StyleName:Medium Italic
+FullName:Apis-MediumItalic
+MenuName:Apis Light
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:326640
+FileModTime:1599729554
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Apis Medium Italic
+NameArray:0,Win,1,Apis Light
+NameArray:0,Win,16,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apis-Regular
+FamilyName:Apis
+StyleName:Regular
+FullName:Apis-Regular
+MenuName:Apis
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Apis-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:314136
+FileModTime:1599729554
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apis
+NameArray:0,Win,1,Apis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FrutigerNext-BdCn
+FamilyName:Frutiger Next
+StyleName:Bold Condensed
+FullName:Frutiger Next Bold Condensed
+MenuName:Frutiger Next Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Frutiger Next Bold Condensed.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90256
+FileModTime:1599729554
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Frutiger Next Bold Condensed
+NameArray:0,Win,1,Frutiger Next Condensed
+NameArray:0,Win,16,Frutiger Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FrutigerNext
+FamilyName:Frutiger Next
+StyleName:Regular
+FullName:Frutiger Next
+MenuName:Frutiger Next
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Frutiger Next.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91320
+FileModTime:1599729554
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Frutiger Next
+NameArray:0,Win,1,Frutiger Next
+NameArray:0,Win,16,Frutiger Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTStd-UltraBlack
+FamilyName:Frutiger LT Std
+StyleName:95 Ultra Black
+FullName:Frutiger LT Std 95 Ultra Black
+MenuName:Frutiger LT Std 95 UltraBlack
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\FrutigerLTStd-UltraBlack.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30912
+FileModTime:1599729554
+WeightClass:950
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Frutiger LT Std 95 UltraBlack
+NameArray:0,Mac,4,Frutiger LT Std 95 Ultra Black
+NameArray:0,Win,1,Frutiger LT Std 95 UltraBlack
+NameArray:0,Win,16,Frutiger LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTPro-BlackCn
+FamilyName:Frutiger LT Pro
+StyleName:77 Black Condensed
+FullName:Frutiger LT Pro 77 Black Condensed
+MenuName:Frutiger LT Pro 57 Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Linotype  FrutigerLTProBlackCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47612
+FileModTime:1599729554
+WeightClass:800
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,Frutiger LT Pro 77 Black Cn
+NameArray:0,Mac,4,Frutiger LT Pro 77 Black Condensed
+NameArray:0,Win,1,Frutiger LT Pro 57 Condensed
+NameArray:0,Win,16,Frutiger LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTPro-Bold
+FamilyName:Frutiger LT Pro
+StyleName:65 Bold
+FullName:Frutiger LT Pro 65 Bold
+MenuName:Frutiger LT Pro 45 Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Linotype  FrutigerLTProBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45460
+FileModTime:1599729554
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Frutiger LT Pro 65 Bold
+NameArray:0,Win,1,Frutiger LT Pro 45 Light
+NameArray:0,Win,16,Frutiger LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTPro-Condensed
+FamilyName:Frutiger LT Pro
+StyleName:57 Condensed
+FullName:Frutiger LT Pro 57 Condensed
+MenuName:Frutiger LT Pro 57 Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Linotype  FrutigerLTProCondensed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47508
+FileModTime:1599729554
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Frutiger LT Pro 57 Condensed
+NameArray:0,Win,1,Frutiger LT Pro 57 Condensed
+NameArray:0,Win,16,Frutiger LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTPro-UltraBlack
+FamilyName:Frutiger LT Pro
+StyleName:95 Ultra Black
+FullName:Frutiger LT Pro 95 Ultra Black
+MenuName:Frutiger LT Pro 95 UltraBlack
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\Linotype  FrutigerLTProUltraBlack.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46588
+FileModTime:1599729554
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Frutiger LT Pro 95 UltraBlack
+NameArray:0,Mac,4,Frutiger LT Pro 95 Ultra Black
+NameArray:0,Win,1,Frutiger LT Pro 95 UltraBlack
+NameArray:0,Win,16,Frutiger LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Websites\9Yards\_SOURCE\V5\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1599729554
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
