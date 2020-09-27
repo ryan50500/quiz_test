@@ -86,11 +86,12 @@ select {
 
 /* main styling  */
 #tab_contain {
-    background-color: #f6f7f9;
+    background-color: #ecf2fd;
     border: 20px solid #000000;
     border-radius: 76px;
     width: 985px;
     margin: 0 auto;
+    overflow: hidden;
 }
 #tab_contain *:focus {
     outline: none;
@@ -99,7 +100,7 @@ select {
     font-family: apisLight;
     color: #a8aeb4;
     font-size: 20px;
-    margin: 0.5em 0 5em 0;
+    margin: 1em 0 5em 0;
 }
 .margin {
     text-align: left;
@@ -132,23 +133,35 @@ p.choose span {
     padding: 1em 0 1em 2em;
     box-shadow: 0px 0px 6px 2px #e9eaeb;
 }
- .tab_lower {
-    background-color: transparent;
+.tab_lower {
+    background-color: #ffffff;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-around;
-    align-items: baseline;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    -webkit-box-align: baseline;
+        -ms-flex-align: baseline;
+            align-items: baseline;
     border-top: 1px solid #e9eaeb;
     padding: 1em 0 1.5em 0;
 }
 span.check_padding {
-    padding-left: 0.5em;
     position: relative;
     bottom: 5px;
+    border-top: 1px solid #d9e5fc;
+    margin-left: 0.5em;
 }
 .button_page {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
 }
 
 /* test */
@@ -197,7 +210,13 @@ input[class="green"]:checked:after {
     -ms-filter: fliph;
     filter: fliph;
 }
-
+p.first {
+    font-family: apisMedium;
+    color: #5e6b77;
+    border-bottom: 1px solid #d9e5fc;
+    margin-bottom: 1.5em;
+    font-size: 15px;
+}
 
 button#submit_button {
     background-color: #f7a713;
